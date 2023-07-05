@@ -41,4 +41,8 @@ Hosting Web application to Microsoft Azure
 
 ![image](https://github.com/be20f20/breast_cancer_prediction/assets/126806877/9b7aa77f-747a-45de-a0ec-f00e355812cf)
 
-![image](https://github.com/be20f20/breast_cancer_prediction/assets/126806877/5387c1cc-1dc4-4c7c-8dc4-244f13143d07)
+
+
+https://github.com/be20f20/breast_cancer_prediction/assets/126806877/20539377-6011-4489-aa91-28c96fc6e945
+
+
