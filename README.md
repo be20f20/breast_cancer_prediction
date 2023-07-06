@@ -1,7 +1,7 @@
 # BREAST CANCER PREDICTOR
 
 
-Project demo link :  https://breastcancerpredictor.azurewebsites.net/
+Project demo video link : https://github.com/be20f20/breast_cancer_prediction/assets/126806877/e160620d-001c-44d7-aaf8-b610482e4f39
 
 Hosting Web application to Microsoft Azure
 
