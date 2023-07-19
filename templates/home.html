@@ -1,9 +1,19 @@
 <html>
 <head>
-   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+	body{
+    background-image:url('https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rQzG9B2w01YpBxpph3YTaw.png');
+	background-size: cover;
+	}
+	button[type = submit]
+	{
+		background-color : #af4c86;
+	}
+  </style>
 </head>
    <body>
       <title>Breast Cancer Prediction</title>
@@ -13,23 +23,23 @@
 		  <form action="{{ url_for('predict')}}" method="POST">
 		  	<div class="col-sm-9">
 			 <div class="form-group  purple-border">
-				  <label for="comment">texture_mean:</label>
+				  <label for="comment">Texture_mean:</label>
 				  <textarea class="form-control" rows="2" id="query1" name="query1" rows="2" cols="5" autofocus>{{query1}}</textarea>
 			</div>
 			<div class="form-group  purple-border">
-				  <label for="comment">perimeter_mean:</label>
+				  <label for="comment">Perimeter_mean:</label>
 				  <textarea class="form-control" rows="2" id="query2" name="query2" rows="2" cols="5" autofocus>{{query2}}</textarea>
 			</div>
 			<div class="form-group  purple-border">
-				  <label for="comment">smoothness_mean:</label>
+				  <label for="comment">Smoothness_mean:</label>
 				  <textarea class="form-control" rows="2" id="query3" name="query3" rows="2" cols="5" autofocus>{{query3}}</textarea>
 			</div>
 			<div class="form-group  purple-border">
-				  <label for="comment">compactness_mean:</label>
+				  <label for="comment">Compactness_mean:</label>
 				  <textarea class="form-control" rows="2" id="query4" name="query4" rows="2" cols="5" autofocus>{{query4}}</textarea>
 			</div>
 			<div class="form-group  purple-border">
-				  <label for="comment">symmetry_mean:</label>
+				  <label for="comment">Symmetry_mean:</label>
 				  <textarea class="form-control" rows="2" id="query5" name="query5" rows="2" cols="5" autofocus>{{query5}}</textarea>
 			</div>
 			</div>
