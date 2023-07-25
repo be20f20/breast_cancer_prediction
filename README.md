@@ -1,7 +1,11 @@
 # BREAST CANCER PREDICTOR
 
 
-Project demo video link : https://github.com/be20f20/breast_cancer_prediction/assets/126806877/e160620d-001c-44d7-aaf8-b610482e4f39
+Project demo video link : 
+
+https://github.com/be20f20/breast_cancer_prediction/assets/126806877/e0b3fa06-bbb4-4ceb-831d-028b4e64e200
+
+
 
 Hosting Web application to Microsoft Azure
 
@@ -44,8 +48,5 @@ Hosting Web application to Microsoft Azure
 
 ![image](https://github.com/be20f20/breast_cancer_prediction/assets/126806877/4a15ffbe-5f7c-48cf-8434-5fd42cf43784)
 
-Project video :
-
-https://github.com/be20f20/breast_cancer_prediction/assets/126806877/20539377-6011-4489-aa91-28c96fc6e945
 
 
